@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotApp</string>
+    <string name="editTextMain_notTitle">Not Title</string>
+    <string name="editTextMain_writeYourNot">Write Your Not</string>
+    <string name="main_addNewNot">Add New Not</string>
+    <string name="main_removeAll">Remove All</string>
+</resources>

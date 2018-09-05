@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">یادداشت من</string>
+    <string name="editTextMain_notTitle">عنوان یادداشت</string>
+    <string name="editTextMain_writeYourNot">محتوای یادداشت را اینجا بنویس</string>
+    <string name="main_addNewNot">افزودن یادداشت</string>
+    <string name="main_removeAll">حذف همه</string>
+
+</resources>
